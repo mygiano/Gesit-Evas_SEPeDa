@@ -1,0 +1,32 @@
+X,Y,fid,nama_balita,alamat_balita,tgl_lahir_balita,umur_balita,nama_ibu,nama_ayah,kode_unik,thn_intervensi,no,jenis_kelamin,umur_bulan,icon_url,Data_Stunting_2022_stunting?
+125.381705521087,2.35992761763747,"36",Arfan G. Talangamin,Lesah Rende,2018/08/11,4.3,,Anthonius Talangamin,{dbf0ae69-ec84-478c-a61b-952193f8f1a4},2022/01/01,"1","1","52",,true
+125.37186789276,2.35616009282342,"37",Juandri Patuwo,Lesah Rende,2019/04/02,3.7,Dwi Mulyani Patuwo,,{6bf248f6-48a9-4d2f-9290-aa6344931f7d},2022/01/01,"2","1","45",,true
+125.388036266248,2.33445855348375,"38",Arka Karaeng,Barangkapehe,2018/12/22,3.9,Brenda Karaeng,,{96b87160-6f0a-4441-8494-4fc2596524a1},2022/01/01,"3","1","48",,false
+125.381664841922,2.34092307771897,"39",Yurev Madonsa,Bahoi,2019/05/28,3.5,Yufrianio Terok,,{50d178e4-61ae-425a-8c1e-40d16b83a891},2022/01/01,"4","1","43",,true
+125.404556146154,2.36177141331502,"40",Elvano Dolika,Mulengen,2019/11/06,3.1,Nadia Dolika,,{63ad8a56-420d-4ef8-ad95-e07d7ee318f2},2022/01/01,"5","1","37",,true
+125.401739347063,2.32560442789459,"41",Khan Mundiahi,Tulusan,2020/01/18,2.9,Afni Martin,,{a6504e3d-e811-48ee-91f7-9b0aa8e8df95},2022/01/01,"6","1","35",,true
+125.361144575672,2.12568145581981,"42",Justice Piter,Lamanggo,2018/06/16,4.5,Marianti Durmanis,,{0b61f1fc-0719-4c54-bdf6-dc5a30e93c99},2022/01/01,"7","1","54",,true
+125.342344280379,2.0809930546078,"43",Gilbert Manahampi,Buang,2018/07/04,4.4,Yulia Kalensang ,,{3003bdf2-5646-4089-ad4d-0f6c9234ab8f},2022/01/01,"8","1","54",,true
+125.449726753262,2.64457787718322,"44",Tristan Giovani Limpah,Pahepa,2018/11/24,4,,Cani Limpah,{502847af-88c7-448c-a9f3-c0bd67e0c971},2022/01/01,"9","1","49",,true
+125.457411766467,2.67788760629443,"45",Gilhans Manoppo ,Matole,2018/05/22,4.5,Desi Balansawang,,{fda9a128-c520-482c-9240-1adbc7a00bc1},2022/01/01,"10","1","55",,true
+125.452680680213,2.64645109915198,"46",Belvania S. Sule,Pahepa,2020/07/17,2.4,Olla Zikir,,{10fc8733-1208-44b6-b81d-30b7bafeeebc},2022/01/01,"11","2","29",,false
+125.163322696395,2.73831533020897,"47",Aiden Tahulending ,Makalehi,2019/10/05,3.2,,Antonius Tahulending,{9cc88dfb-37b2-469a-b32b-77db44e209bc},2022/01/01,"12","1","38",,true
+125.164417601645,2.738744701972,"48",Natanael Pusung,Makalehi Utara,2020/12/16,2,,Rosiman Pusung,{19b9d98f-362b-4b7a-b20e-e97b2cb39415},2022/01/01,"13","1","24",,true
+125.368409707285,2.75157967823226,"49",Marisa Takasili,Pehe,2018/04/03,4.5,,Bawole Takasili,{f2182b5a-cf23-4f9d-80a9-28341552277e},2022/01/01,"14","2","55",,
+125.363708164899,2.70404207542957,"50",Septian Angkobos,Peling,2018/09/10,4.2,,Arieres Angkobos,{13f7495a-4a93-410c-99f9-55b703b45bfe},2022/01/01,"15","1","51",,true
+125.368517777783,2.69952572160028,"51",Valentino Sadia,Peling Sawang,2018/03/21,4.6,,Lodri Sadia,{0ef07d79-cf16-4577-a750-c1729cfb0b96},2022/01/01,"16","1","55",,
+125.375206712793,2.73647849811819,"52",Juini Pinamangung,Paniki,2018/01/17,4.9,,Frankly Pinamangung,{a1669d7c-2dc3-44d6-bc9c-5ff39201f6b0},2022/01/01,"17","2","59",,true
+125.385646013171,2.78029048435335,"53",Oktaviani Lumandung,Winangun,2018/10/12,4.1,,Kornelius Lumandung,{606a6eaa-1da1-4cc6-bda0-d88aebfcfaf0},2022/01/01,"18","2","50",,true
+125.378412232285,2.78086077932732,"54",Audrey Natania Pesik,Winangun,2019/11/21,2.9,Vera Pesik,,{cb30d3af-5b21-43a7-b2ab-ef8b6de6b1fa},2022/01/01,"19","2","35",,
+125.405531923416,2.81007583734015,"55",Virgi A. Mamuko,Batubulan,2020/02/05,2.8,,Ritwan H. Mamuko,{0a06a654-3e43-42ef-9a90-8e53683483bb},2022/01/01,"20","2","34",,true
+125.407008886891,2.80990172375972,"56",Novia A. Tatambihe,Batubulan,2019/11/06,3.1,,Rolan Tatambihe,{eec6d2b3-3da9-42c9-96c8-9efe3a4e144d},2022/01/01,"21","2","37",,false
+125.396165813572,2.67324057487193,"57",Gibran Mangintumbage,Biau Seha,2018/04/23,4.5,,Edward Mangintumbage,{f4a26126-f718-4951-806e-db6c5a1dd3cb},2022/01/01,"22","1","54",,
+125.392536446008,2.69520290167236,"58",Gamaliel Pinori ,Binalu,2021/02/03,1.8,Tisri Mandalika,Herdy Pinori,{79762a09-238d-4f72-9ed7-16fcab527f15},2022/01/01,"23","1","22",,true
+125.372344254504,2.68366222251432,"60",Gevariel Sidangoli,Laghaeng,2018/11/12,4.1,Feronita Sidangoli,,{630eb041-e80a-4cad-892b-3aa03cc33785},2022/01/01,"25","1","49",,true
+125.405252741296,2.63679079739641,"61",Marfiano Misa,Tanaki,2019/03/07,3.7,,Zaskar Misa,{c221f558-0b8b-41f2-b83e-e01467a78c04},2022/01/01,"26","1","46",,true
+125.381819454936,2.68009104367436,"62",Amoraiza Barangke,Makoa,2019/10/10,3,,Lefriando Barangke,{5749bdb6-c6f3-4e6d-9177-1dff3db636e7},2022/01/01,"27","2","37",,
+125.452869803585,2.77482684317794,"63",Amerisa M. Sabanari,Lia Satu,2021/10/20,1,,Jeprigo Sabanari,{51c04bb4-f72a-4f56-b116-7c3280c79518},2022/01/01,"28","2","12",,
+125.400099799307,2.73822634977543,"64",Rivaldo Kuera,Bebali,2018/03/20,4.7,,Heldry R. Kuera,{c3e80e51-efef-4d3c-9773-233dd1c28b64},2022/01/01,"29","1","57",,true
+125.38180926487,2.76330884445478,"65",Janier Kurenteng,Dompase,2021/01/07,1.9,,Kristian Kurenteng,{b3d6549d-fa21-4304-b4c6-a20b3eee0c95},2022/01/01,"30","1","23",,false
+125.38522367563,2.75799786504191,"66",Hendro Tahulending,Dompase,2021/03/16,1.7,,Heriyanto Tahulending,{89f44707-3d00-450c-9c8c-02aef2e2d0de},2022/01/01,"31","1","21",,false
+125.39630866,2.67323084,"69",Saskia Sela,Kampung Biau Seha Lind 2,2020/09/29,2.2,Risye Salindeho,Matias Sela (meninggal),{8cddda97-bd09-4de0-b427-6785556734d9},2022/10/13,"0","2","26",,false
